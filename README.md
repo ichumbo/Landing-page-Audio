@@ -1,6 +1,9 @@
 # Pod - Audio streaming app landing page
 
-Pod é uma página inicial de aplicativo de streaming de áudio totalmente responsiva, responsiva para todos os dispositivos, construída usando HTML, CSS e JavaScript.
+<div align="center">
+  Pod é uma página inicial de aplicativo de streaming de áudio totalmente responsiva, responsiva para todos os dispositivos, construída usando HTML, CSS e JavaScript.
+  <a href="https://ichumbo.github.io/Micro-Master/"><strong>➥ Demonstração ao vivo</strong></a>
+</div>
 
 ## Demo
 
